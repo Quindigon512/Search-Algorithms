@@ -1,3 +1,11 @@
+#######################################################
+# Author:   Quinn Trate
+# Date:     October 17, 2023
+# Class:    CMPSC 441 Artificial Intelligence
+# Language: Python
+# Purpose:  Test Cases for main.py
+#######################################################
+
 from main import *
 
 from inspect import stack
